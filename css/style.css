@@ -18,8 +18,8 @@ main h1 {
 h3 {
     color: black;
     font-family: 'Roboto', sans-serif;
-    
-    
+
+
 }
 
 body {
@@ -64,7 +64,7 @@ body p {
 
     text-align: center;
     font-size: 21px;
-padding: 20px;
+    padding: 20px;
 }
 
 footer {
@@ -108,9 +108,9 @@ span.Footer__vamos {
 }
 
 iframe.Video {
-width: 100%; 
-height: 750px;
-padding: 10px;
+    width: 100%;
+    height: 750px;
+    padding: 10px;
 
 
 }
@@ -119,7 +119,7 @@ padding: 10px;
     display: flex;
 }
 
-img{
+img {
     padding: 20px;
 
 }
