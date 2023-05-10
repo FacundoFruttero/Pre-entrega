@@ -123,3 +123,10 @@ img {
     padding: 20px;
 
 }
+#icono-youtube{
+    color: red;
+    text-decoration: none;
+}
+#icono-twitter{
+    color: deepskyblue;
+}
