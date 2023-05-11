@@ -130,14 +130,17 @@ img {
 #icono-twitter{
     color: deepskyblue;
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 740px) {
     /* Estilos para pantallas menores a 768px */
     h1 {
       font-size: 14px;
       font-weight: 100;
+      
     }
     p {
-      font-size: 16px;
+      font-size: 10px;
+      text-align: center;
+      
     }
   }
   
