@@ -116,9 +116,10 @@ iframe.Video {
 }
 
 img {
-    padding: 20px;
+    padding: 10px;
 
 }
+
 #icono-youtube{
     color: red;
     text-decoration: none;
@@ -139,5 +140,8 @@ img {
       
     }
   }
-  
-
+  .container img {
+    max-width: 100%;
+    height: auto;
+    
+}
