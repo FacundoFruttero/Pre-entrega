@@ -82,12 +82,8 @@ iframe.Video {
   padding: 10px;
 }
 
-.imagenes__Creo {
-  display: flex;
-}
-
 img {
-  padding: 10px;
+  padding: 20px;
 }
 
 #icono-youtube {
